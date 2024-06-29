@@ -1,0 +1,23 @@
+ToDo:
+- 2 Jsons erstellen
+- Macro erstellen
+- Settings eintragen
+
+- Auf Setting reagieren
+
+
+Ablauf:
+- GM drückt button/macro
+- Liste aus Tips wird erzeugt
+- 1. Text wird für alle angezeigt
+- Wenn erlaubt können Spieler weitere anzeigen
+- Cycelt durch Liste durch
+- Kann geschlossen und wieder geöffnet werden
+
+Settings:
+- Welche Jsons werden benutzt
+- Welche Tags/alle Tags
+- Gleicher Text für alle?
+- Sollen Spieler neue anzeigen können/Neue Tips mit Timer
+- Können Spieler selber Tips anzeigen
+- Wieviele Tips pro Liste

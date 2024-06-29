@@ -1,0 +1,7 @@
+title: barFoo
+text: foo bar
+category: rules/lore/foundry
+
+tags: [spellscar, feat, foobar] Default: [none]
+complexity: BEGINNER, advanced, pro
+spoiler: true/FALSE
