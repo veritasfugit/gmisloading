@@ -1,0 +1,23 @@
+{
+  "id": "gm-is-loading",
+  "title": "GM is loading",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "description": "bla"
+  "authors": [
+    {
+      "name": "VeritasFugit",
+      "discord": "VeritasFugit",
+      "flags": {}
+    },
+    {
+      "name": "Jojop",
+      "discord": "jojop3000",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/veritasfugit/gmisloading"
+}
