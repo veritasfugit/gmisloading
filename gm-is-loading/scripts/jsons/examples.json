@@ -1,0 +1,188 @@
+{
+  "blurbs": [
+    {
+      "title": "The City of Absalom",
+      "text": "Absalom, known as the City at the Center of the World, is one of the largest and most influential cities in Golarion. It serves as a hub of trade, politics, and adventure. Its strategic location makes it a melting pot of cultures and races.",
+      "category": "Lore",
+      "tags": ["city", "trade", "politics", "adventure"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Absalom"
+    },
+    {
+      "title": "The Starstone",
+      "text": "The Starstone is a legendary artifact located in the Ascendant Court of Absalom. It is said that those who survive the Test of the Starstone can ascend to godhood. The artifact is surrounded by myths and guarded by powerful forces.",
+      "category": "Lore",
+      "tags": ["artifact", "ascendancy", "myth", "power"],
+      "complexity": "Advanced",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Starstone"
+    },
+    {
+      "title": "Cheliax",
+      "text": "Cheliax is a powerful nation ruled by the diabolical House Thrune. The country is known for its rigid hierarchies and pacts with devils. Despite its oppressive regime, Cheliax remains a major player in the political landscape of Golarion.",
+      "category": "Lore",
+      "tags": ["nation", "politics", "devils", "oppression"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Cheliax"
+    },
+    {
+      "title": "Varisia",
+      "text": "Varisia is a land of ancient ruins and diverse cultures. Adventurers are drawn to its rugged landscapes and the mysteries of the Thassilonian Empire. It is home to iconic locations such as the city of Magnimar and the dangerous Storval Plateau.",
+      "category": "Lore",
+      "tags": ["region", "ancient ruins", "culture", "adventure"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Varisia"
+    },
+    {
+      "title": "The Pathfinder Society",
+      "text": "The Pathfinder Society is a global organization of explorers and adventurers. Members are tasked with discovering and chronicling the secrets of Golarion. The Society's headquarters is located in the Grand Lodge in Absalom.",
+      "category": "Lore",
+      "tags": ["organization", "exploration", "adventure", "secrets"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Pathfinder_Society"
+    },
+    {
+      "title": "The Mwangi Expanse",
+      "text": "The Mwangi Expanse is a vast, jungle-filled region in the heart of Garund. It is known for its rich biodiversity and ancient, forgotten civilizations. Explorers brave its depths in search of hidden treasures and lost knowledge.",
+      "category": "Lore",
+      "tags": ["region", "jungle", "biodiversity", "exploration"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Mwangi_Expanse"
+    },
+    {
+      "title": "The Worldwound",
+      "text": "The Worldwound is a demon-infested wasteland in northern Avistan. It was created when the demigod Deskari tore a rift into the Abyss. Heroes from across Golarion unite to contain the demonic threat and close the Worldwound once and for all.",
+      "category": "Lore",
+      "tags": ["region", "demons", "threat", "heroes"],
+      "complexity": "Advanced",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Worldwound"
+    },
+    {
+      "title": "Iomedae",
+      "text": "Iomedae, the Inheritor, is a goddess of honor, justice, and valor. She ascended to divinity after passing the Test of the Starstone. Her followers, including many paladins, strive to uphold her ideals and combat evil wherever it arises.",
+      "category": "Lore",
+      "tags": ["deity", "honor", "justice", "valor"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Iomedae"
+    },
+    {
+      "title": "Nethys",
+      "text": "Nethys, the All-Seeing Eye, is the god of magic, embodying both its creative and destructive aspects. His followers include wizards and sorcerers who seek to master the arcane arts. Nethys is often depicted as a figure split between light and dark.",
+      "category": "Lore",
+      "tags": ["deity", "magic", "creative", "destructive"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Nethys"
+    },
+    {
+      "title": "The Shackles",
+      "text": "The Shackles is a region of tropical islands ruled by pirates and freebooters. It is a haven for those seeking freedom from the oppressive regimes of the Inner Sea. The Hurricane King commands the Shackles, ensuring its chaotic but profitable existence.",
+      "category": "Lore",
+      "tags": ["region", "pirates", "freedom", "chaos"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Shackles"
+    },
+    {
+      "title": "Geb",
+      "text": "Geb is a land ruled by the undead and necromancers. Its ruler, the ghostly wizard-king Geb, has governed the region for centuries. The nation is known for its macabre customs and dark magic.",
+      "category": "Lore",
+      "tags": ["nation", "undead", "necromancy", "dark magic"],
+      "complexity": "Advanced",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Geb"
+    },
+    {
+      "title": "Katapesh",
+      "text": "Katapesh is a bustling trade hub known for its exotic goods and bustling markets. Ruled by the mysterious Pactmasters, the city-state is a melting pot of cultures and races. Adventurers can find rare treasures and dangerous opportunities here.",
+      "category": "Lore",
+      "tags": ["city", "trade", "exotic goods", "adventure"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Katapesh"
+    },
+    {
+      "title": "Alchemical Items",
+      "text": "Alchemical items are crafted through the use of reagents and alchemical processes. They range from simple healing potions to complex explosives and poisons. Alchemists are skilled at creating these items to aid their allies and hinder their enemies.",
+      "category": "Rules",
+      "tags": ["crafting", "alchemy", "items", "potions"],
+      "complexity": "Advanced",
+      "spoiler": false
+    },
+    {
+      "title": "Action Economy",
+      "text": "Pathfinder 2nd Edition uses a three-action economy system. Each character has three actions per turn, which can be used for a variety of activities such as moving, attacking, and casting spells. This system provides flexibility and strategic depth in combat.",
+      "category": "Rules",
+      "tags": ["combat", "actions", "strategy", "flexibility"],
+      "complexity": "Beginner",
+      "spoiler": false
+    },
+    {
+      "title": "Critical Success and Failure",
+      "text": "In Pathfinder 2nd Edition, rolling 10 or more above the required DC results in a critical success, while rolling 10 or more below results in a critical failure. These outcomes can have significant impacts, adding an extra layer of excitement to gameplay.",
+      "category": "Rules",
+      "tags": ["game mechanics", "critical success", "critical failure", "dice rolls"],
+      "complexity": "Beginner",
+      "spoiler": false
+    },
+    {
+      "title": "Ancestries and Backgrounds",
+      "text": "Characters in Pathfinder 2nd Edition are created using ancestries and backgrounds. Ancestries provide racial traits, while backgrounds offer skills and story elements that shape a character's history. This system allows for diverse and personalized character creation.",
+      "category": "Rules",
+      "tags": ["character creation", "ancestries", "backgrounds", "diversity"],
+      "complexity": "Beginner",
+      "spoiler": false
+    },
+    {
+      "title": "Feats and Features",
+      "text": "Feats and class features allow characters to customize their abilities and skills. Feats can be chosen at various levels to enhance combat prowess, magical abilities, or social skills. Class features are unique abilities tied to a character's class.",
+      "category": "Rules",
+      "tags": ["character customization", "feats", "class features", "abilities"],
+      "complexity": "Beginner",
+      "spoiler": false
+    },
+    {
+      "title": "Golarion's Pantheon",
+      "text": "Golarion is home to a vast pantheon of deities, each with their own domains and followers. From the benevolent Sarenrae to the sinister Norgorber, these gods influence the lives of mortals. Worshiping a deity can grant characters divine powers and guidance.",
+      "category": "Lore",
+      "tags": ["deities", "worship", "divine power", "pantheon"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Religion"
+    },
+    {
+      "title": "The Goblin Infestation",
+      "text": "Goblins are a common nuisance in Golarion, known for their chaotic and destructive behavior. Many adventurers start their careers by dealing with goblin infestations. Despite their lowly status, goblins can be cunning and surprisingly dangerous.",
+      "category": "Lore",
+      "tags": ["creatures", "goblins", "danger", "adventurers"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Goblin"
+    },
+    {
+      "title": "The First World",
+      "text": "The First World is a parallel plane of existence, home to the fey and other magical creatures. It is a place of wonder and danger, where the laws of reality are mutable. The First World often overlaps with Golarion, causing strange and magical phenomena.",
+      "category": "Lore",
+      "tags": ["plane", "fey", "magic", "phenomena"],
+      "complexity": "Advanced",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/First_World"
+    },
+    {
+      "title": "The Green Faith",
+      "text": "The Green Faith is a naturalistic religion that venerates the forces of nature. Its followers, including druids and rangers, strive to maintain the balance between civilization and the wild. The Green Faith emphasizes respect for all living things and the environment.",
+      "category": "Lore",
+      "tags": ["religion", "nature", "balance", "druids"],
+      "complexity": "Beginner",
+      "spoiler": false,
+      "link": "https://pathfinderwiki.com/wiki/Green_Faith"
+    }
+  ]
+}
